@@ -1,5 +1,3 @@
-# Kourosh Shaban
-
 ### 📊 Data & AI · Machine Learning · Technology Consulting
 
 I am building practical **Data & AI solutions** across machine learning, analytics, generative AI and cloud technology, with a focus on applying these technologies to business problems.
@@ -102,46 +100,6 @@ An end-to-end customer intelligence solution that uses transaction data to ident
 
 ---
 
-## 🏗️ Delivery Approach
-
-I aim to demonstrate the complete delivery process rather than focusing only on model development.
-
-```text
-┌─────────────────────┐
-│  💼 Business Problem │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│   📊 Data & Analysis │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ 🤖 Machine Learning  │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│     ✨ AI Layer      │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│    ☁️ Production     │
-└─────────────────────┘
-```
-
 Projects are structured around **reproducibility, testing, documentation and practical deployment**.
 
 ---
-
-## 📚 Current Focus
-
-| Focus | Areas |
-|---|---|
-| 🤖 **Machine Learning** | Production-oriented predictive models |
-| ✨ **Generative AI** | AI-assisted applications and decision support |
-| ☁️ **Cloud** | Cloud-based Data & AI solutions |
-| ⚙️ **MLOps** | Testing, automation and deployment |
-| 📊 **Analytics** | Business-focused analytics and customer intelligence |
-
----
-
-### Data → Machine Learning → AI → Production
