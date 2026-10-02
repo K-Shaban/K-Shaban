@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Kourosh Shaban
-
 ### 🧠 Data & AI · 🤖 Machine Learning · ☁️ Cloud · 💼 Technology Consulting
 
 I build **practical Data & AI solutions** that connect real business problems with machine learning, analytics, generative AI and cloud technology.
