@@ -14,5 +14,5 @@ Building practical data and AI applications, with a focus on machine learning, a
 **[Sydney Site Scout](https://github.com/K-Shaban/sydney-site-scout)**  
 Location intelligence application using real Sydney pedestrian-count data, LangGraph, LangChain and Gemini.
 
-**[Customer Intelligence](https://github.com/K-Shaban/customer-intelligence)**  
+**[Customer Risk Intelligence Pipeline](https://github.com/K-Shaban/customer-risk-intelligence-pipeline)**  
 End-to-end customer inactivity risk modelling system with FastAPI, AWS and Amazon Bedrock.
